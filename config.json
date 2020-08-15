@@ -1,0 +1,10 @@
+{
+    "focus_note_list_shortcut": "Ctrl+L",
+    "focus_field_shortcuts" : [
+        {
+            "note_type": "Chinese-Words",
+            "shortcut": "Ctrl+T",
+            "field": "Example"
+        }
+    ]
+}
