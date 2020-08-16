@@ -3,8 +3,7 @@
         {
             "note_type": "Chinese-Words",
             "shortcut": "Ctrl+T",
-            "field": "Example",
-            "tag_after_edit": "added_example"
+            "field": "Example"
         }
     ]
 }
