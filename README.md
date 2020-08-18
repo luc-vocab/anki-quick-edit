@@ -2,7 +2,7 @@
 Quickly focus on a particular field in the card browser using a keyboard shortcut. When trying to populate a particular field for many notes at once, it's helpful to have a shortcut which jumps direcly to a particular field from within the browser.
 
 ## Installation
-to be completed
+Install from https://ankiweb.net/shared/info/1199312228
 
 ## Configuration
 
