@@ -12,15 +12,31 @@ For each shortcut that you need, add an entry which contains the note type, the 
 
 For example, I have a note type called **Chinese-Words**, and within that note type, I want to quickly focus on field **Example** using shortcut **Ctrl+T**
 
-`
-{
-    "focus_field_shortcuts" : [
-        {
-            "note_type": "Chinese-Words",
-            "shortcut": "Ctrl+T",
-            "field": "Example"
-        }
-    ]
-}
-`
 
+    {
+        "focus_field_shortcuts" : [
+            {
+                "note_type": "Chinese-Words",
+                "shortcut": "Ctrl+T",
+                "field": "Example"
+            }
+        ]
+    }
+
+
+Want to configure multiple field ? Just add them this way:
+
+    {
+        "focus_field_shortcuts" : [
+            {
+                "note_type": "Chinese-Words",
+                "shortcut": "Ctrl+T",
+                "field": "Example"
+            },
+            {
+                "note_type": "Chinese-Words",
+                "shortcut": "Ctrl+Q",
+                "field": "Romanization"
+            }            
+        ]
+    }
