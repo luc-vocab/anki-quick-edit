@@ -12,6 +12,8 @@ For each shortcut that you need, add an entry which contains the note type, the 
 
 For example, I have a note type called **Chinese-Words**, and within that note type, I want to quickly focus on field **Example** using shortcut **Ctrl+T**
 
+**Note: if you are a Mac user**: declaring a shortcut as **Ctrl+T** will allow you to use that shortcut while pressing **Command+T**.
+
 
     {
         "focus_field_shortcuts" : [
